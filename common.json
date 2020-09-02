@@ -2,6 +2,7 @@
 	"extends": [
 		"eslint:recommended",
 		"plugin:json/recommended",
+		"plugin:yaml/recommended",
 		"./jsdoc"
 	],
 	"env": {},
